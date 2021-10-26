@@ -1,5 +1,6 @@
 # NSGL
 Multi-view Feature Selection via Nonnegative Structured Graph Learning
+
 Xiangpin Bai, Lei Zhu, Cheng Liang, Jingjing Li, Xiushan Nie, Xiaojun Chang
 
 @article{DBLP:journals/ijon/BaiZLLNC20,
